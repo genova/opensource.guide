@@ -16,7 +16,7 @@ related:
   - building
 ---
 
-## The "what" and "why" of open source (@Mikasa97 Le "qu'est-ce que" et "pourquoi" d'open source)
+## The "what" and "why" of open source (@Mikasa97 Le "qu'est-ce que" et "pourquoi" d'open source) (@Le "quoi" et le "pourquoi" de l'open source)
 
 So you're thinking about getting started with open source ? Congratulations ! The world appreciates your contribution. Let's talk about what open source is and why people do it. (@Mikasa97 Donc, vous songez à commencer avec open source ? Toutes nos félicitations ! Le monde apprécie votre contribution. Parlons de ce qu'est l'open source et pourquoi les gens le font.)
 
