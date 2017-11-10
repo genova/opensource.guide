@@ -16,24 +16,24 @@ related:
   - building
 ---
 
-## The "what" and "why" of open source
+## The "what" and "why" of open source (@Mikasa97 Le "qu'est-ce que" et "pourquoi" d'open source)
 
-So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
+So you're thinking about getting started with open source ? Congratulations ! The world appreciates your contribution. Let's talk about what open source is and why people do it. (@Mikasa97 Donc, vous songez à commencer avec open source ? Toutes nos félicitations ! Le monde apprécie votre contribution. Parlons de ce qu'est l'open source et pourquoi les gens le font.)
 
-### What does "open source" mean?
 
-When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+### What does "open source" mean ? (@Mikasa97 Que signifie "open source" ?)
 
-Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
+When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses). (@Mikasa97 Lorsqu'un projet est open source, cela signifie que ** n'importe qui peut voir, utiliser, modifier et distribuer votre projet pour n'importe quel but. ** Ces autorisations sont appliquées via [une licence open source] (https://opensource.org/licenses ).)
 
-To understand how it works, imagine your friend is having a potluck, and you bring a cherry pie.
+Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly. (@Mikasa97 Open source est puissant car il réduit les obstacles à l'adoption, permettant aux idées de se propager rapidement.)
 
-* Everybody tries the pie (_use_)
-* The pie is a hit! They ask you for the recipe, which you provide (_view_)
-* One friend, Alex, who's a pastry chef, suggests reducing the sugar (_modify_)
-* Another friend, Lisa, asks to use it for a dinner next week (_distribute_)
+To understand how it works, imagine your friend is having a potluck, and you bring a cherry pie. (@Mikasa97 Pour comprendre comment ça marche, imaginez que votre ami organise un repas-partage et que vous apportiez une tarte aux cerises.)
+* Everybody tries the pie (Tout le monde goûte à votre tarte)
+* The pie is a hit! They ask you for the recipe, which you provide (@Mikasa97 La tarte est un succés ! Ils vous demandent la recette que vous leur donnez)
+* One friend, Alex, who's a pastry chef, suggests reducing the sugar (@Mikasa97 Un ami, Alex, qui est un patissier, vous suggère de réduire le sucre)
+* Another friend, Lisa, asks to use it for a dinner next week (@Mikasa97 Une autre amie, Lisa, demande à l'utiliser pour un dîner la semaine prochaine)
 
-By comparison, a closed source process would be going to a restaurant and ordering a slice of cherry pie. You must pay a fee to eat the pie, and the restaurant probably won't give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant could take action against you.
+By comparison, a closed source process would be going to a restaurant and ordering a slice of cherry pie. You must pay a fee to eat the pie, and the restaurant probably won't give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant could take action against you. (@Mikasa97 Par comparaison, un processus de source fermée se rendrait dans un restaurant et commanderait une tranche de tarte aux cerises. Vous devez payer des frais pour manger la tarte, et le restaurant ne vous donnera probablement pas leur recette. Si vous avez copié leur tarte exactement et l'avez vendue sous votre propre nom, le restaurant pourrait prendre des mesures contre vous.)
 
 ### Why do people open source their work?
 
